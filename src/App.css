@@ -41,8 +41,6 @@
 }
 
 .main-div p {
-  /* JAPAN */
-
   font-style: normal;
   font-weight: 400;
   font-size: 19.24px;
@@ -55,4 +53,8 @@
 .main-div a {
   margin-left: 10px;
   margin-top: 17px;
+}
+
+.main-text {
+  width: 50%;
 }
